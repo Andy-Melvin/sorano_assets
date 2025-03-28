@@ -1,0 +1,75 @@
+[
+    {
+      "food_name": "Assorted Belgian-Style Chocolates",
+      "cover_image": "Cover/Assorted_Belgian-Style_Chocolates.png",
+      "ar_image": "Food/Assorted_Belgian_Style_Chocolates.glb",
+      "description": "   "
+    },
+    {
+      "food_name": "Basque Cheesecake",
+      "cover_image": "Cover/Basque_burnt_cheesecake.png",
+      "ar_image": "Food/Basque_burnt_cheesecake.glb",
+      "description": "  accompanied with basque bant cofee"
+    },
+    {
+        "food_name": " Cheese burger",
+        "cover_image": "Cover/Cheeseburger_with_French_Fries.png",
+        "ar_image": "Food/Cheeseburger_with_French_Fries.glb",
+        "description": " accompanied with french fries "
+      },
+      {
+        "food_name": "Coke drink",
+        "cover_image": "Cover/Coca-Cola.png",
+        "ar_image": "Food/Coca-Cola.glb",
+        "description": " coca cola drink"
+      },
+      {
+        "food_name": "Coffe roll cake",
+        "cover_image": "Cover/Coffee_Roll_Cake_with_Black_Coffee.png",
+        "ar_image": "Food/Coffee_Roll_Cake_with_Black_Coffee.glb",
+        "description": " served with cofee"
+      },
+      {
+        "food_name": " French Apple Tart",
+        "cover_image": "Cover/French_Apple_Tart_with_Espresso.jpg",
+        "ar_image": "Food/French_Apple_Tart_with_Espresso.glb",
+        "description": "served with expresso"
+      },
+      {
+        "food_name": " French Desert Platter",
+        "cover_image": "Cover/French_Dessert_Platter_with_Espresso.png",
+        "ar_image": "  ",
+        "description": " Served with expresso "
+      },
+      {
+        "food_name": "  ",
+        "cover_image": "  ",
+        "ar_image": "  ",
+        "description": "  "
+      },
+      {
+        "food_name": "  ",
+        "cover_image": "  ",
+        "ar_image": "  ",
+        "description": "  "
+      },
+      {
+        "food_name": "  ",
+        "cover_image": "  ",
+        "ar_image": "  ",
+        "description": "  "
+      },
+      {
+        "food_name": "  ",
+        "cover_image": "  ",
+        "ar_image": "  ",
+        "description": "  "
+      },
+      {
+        "food_name": "  ",
+        "cover_image": "  ",
+        "ar_image": "  ",
+        "description": "  "
+      },
+    
+  ]
