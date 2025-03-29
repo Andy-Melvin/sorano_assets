@@ -1,0 +1,14 @@
+[
+    {
+        "restaurant_name": "The loop restaurant",
+        "location": "Kigali city, Rwanda",
+        "description": "A modern café with a circular bar, warm lighting, and a festive street view.",
+        "image": "restaurant/The_loop_restaurant.png"
+    },
+    {
+        "restaurant_name": "Cozy Neon Bar",
+        "location": "Downtown, Kigali",
+        "description": "A cozy bar and restaurant, vintage-speakeasy vibe with warm lighting, suitcase-covered walls, and a glowing neon-lit bar that feels both magical and intimate.",
+        "image": "restaurant/The_loop_restaurant.png"
+    }
+]

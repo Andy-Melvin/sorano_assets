@@ -1,0 +1,53 @@
+[
+    {
+        "cover_image":"Cover/classic_royal_apartment.jpg",
+        "description": " A luxurious apartment room with a classic royal design, featuring elegant furnishings and rich colors. Perfect for a lavish stay.",
+        "location": " Kigali city, Rwanda",
+        "views": [
+            {
+                "image_path": "Travel/Classic_Royal_Apartment_Room.jpg",
+                "title": " Bedroom view"
+            },
+            {
+                "image_path": "Travel/Modern_Elegant_Living_Room.png",
+                "title": " Living room view"
+            }
+        ]
+    },
+    
+    {
+        "cover_image":"Cover/desert_appart.png",
+        "description": "This a house that has a big glass door that opens to a wide desert view. It has a clean and simple design, a comfy bed with colorful pillows, cozy chairs by the window, and a small balcony where you can sit and enjoy the peaceful scenery.",
+        "location": " Dubai, Abudabi",
+        "views": [
+            {
+                "image_path": "Travel/Modern_Desert_View_Apartment_Room.jpg",
+                "title": " Bedroom view"
+            },
+            {
+                "image_path": "Travel/Modern_Elegant_Living_Room.png",
+                "title": " Living room view"
+            }
+        ]
+    },
+    
+    {
+        "cover_image":"Cover/kimironko_apartment.png",
+        "description": " A luxurious apartment room with a classic royal design, featuring elegant furnishings and rich colors. Perfect for a lavish stay.",
+        "location": " Kigali city,Kimironko near Kigali parents International School",
+        "views": [
+            {
+                "image_path": "Travel/Modern_Elegant_Living_Room.png",
+                "title": " Living room view"
+            },
+            {
+                "image_path": "Travel/Modern_Bathroom.png",
+                "title": " Bathroom view"
+            },
+            {
+                "image_path": "Travel/Modern_Shine_Kitchen.png",
+                "title": " Kitchen view"
+            }
+        ]
+    }
+]

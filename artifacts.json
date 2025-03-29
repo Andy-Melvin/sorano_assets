@@ -5,12 +5,6 @@
       "ar_image": "Products/Artifact/Chinese_guardian_lion.glb",
       "description": "A Chinese guardian lion, also known as a stone lion or foo dog, is a traditional Chinese architectural ornament that symbolizes protection and good fortune."
     },
-    {
-        "product_name": "Chinese incense burner",
-        "cover_image": "Cover/burner.png",
-        "ar_image": "Products/Artifact/Chinese_incense_burner.glb",
-        "description": "A Chinese incense burner, also known as a censer, is a decorative container used to hold burning incense. It is often made of metal or ceramic and features intricate designs and carvings."
-      },
       {
         "product_name": "Classical marble woman statue",
         "cover_image": "Cover/woman_marble_statue.png",
@@ -22,11 +16,5 @@
         "cover_image": "Cover/horse_statue.png",
         "ar_image": "Products/Artifact/Horse_Artifact.glb ",
         "description": "A Gansu horse sculpture, also known as a Gansu horse figurine, is a traditional Chinese art piece that depicts a horse in a stylized and abstract form. It is often made of clay or ceramic and features intricate designs and patterns."
-      },
-      {
-        "product_name": "Wallace Fountain",
-        "cover_image": "Cover/Wallace_Fountain_artifact.png",
-        "ar_image": "Products/Artifact/Wallace_Fountain_artifact.glb",
-        "description": "The Wallace Fountain is a green cast-iron drinking fountain portraying a symbol of peace and charm."
       }
   ]
