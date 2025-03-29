@@ -2,7 +2,7 @@
     {
       "product_name": "Assorted Belgian-Style Chocolates",
       "cover_image": "Cover/Assorted_Belgian-Style_Chocolates.png",
-      "ar_image": "Food/Assorted_Belgian_Style_Chocolates.glb",
+      "ar_image": "Food/Assorted_Belgian-Style_Chocolates.glb",
       "description": "A beautifully arranged selection, of white, dark, and milk chocolates, each with a unique flavor and design. Perfect for gifting or indulging in a sweet treat."
     },
     {
@@ -64,5 +64,11 @@
         "cover_image": "Cover/Japanese-style_set_meal.png",
         "ar_image": "Food/Japanese-style_set_meal.glb",
         "description": " A traditional Japanese teishoku meal, featuring a variety of dishes including rice, miso soup, grilled fish, and pickled vegetables. Perfect for a wholesome and satisfying meal."
+      },
+      {
+        "product_name": "Margarita Pizza",
+        "cover_image": "Cover/pizaa-cover.png",
+        "ar_image": "Food/pizaa.glb",
+        "description": "A classic margarita pizza, topped with fresh tomatoes, mozzarella cheese, and basil. Perfect for pizza lovers."
       }
   ]

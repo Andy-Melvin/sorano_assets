@@ -12,12 +12,6 @@
         "description": "A modern modular bookshelf with a ladder-style design and drawers for storage. Ideal for displaying books and decorative items."
       },
       {
-        "product_name": "Light pink Orchid flower",
-        "cover_image": "Cover/Light_pink_Moth_Orchid_flower.png",
-        "ar_image": "Products/Furniture/Light_pink_Moth_Orchid_flower.glb",
-        "description": "A beautiful light pink Moth Orchid flower in a decorative pot. Perfect for adding a touch of elegance to any room."
-      },
-      {
         "product_name": "Wooden lounge chair",
         "cover_image": "Cover/mid-century_modern_lounge_chair.png",
         "ar_image": "Products/Furniture/mid-century_modern_lounge_chair.glb",
