@@ -1,0 +1,15 @@
+[
+    {
+      "product_name": " Meta Quest 2",
+      "cover_image": "Cover/Meta_Quest_2__Oculus_Quest_2.png",
+      "ar_image": "Products/Electronics/Meta_Quest_2_(Oculus_Quest_2).glb",
+      "description": " Meta Quest 2 is a virtual reality headset developed by Meta Platforms. It offers immersive gaming and social experiences, featuring advanced tracking and a library of VR content."
+    },
+    {
+      "product_name": "Quadrotor Drone",
+      "cover_image": "Cover/quadrotor_drone.png",
+      "ar_image": "Products/Electronics/quadrotor_drone.glb",
+      "description": "An unmanned aerial vehicle (UAV) that is lifted and propelled by four rotors. It is best used for aerial photography, surveillance, and recreational flying."
+    }
+
+]

@@ -1,0 +1,45 @@
+[
+    {
+      "product_name": "A Basket ball",
+      "cover_image": "Cover/Basketball.png",
+      "ar_image": "Products/Fashion/Basket_ball.glb",
+      "description": " A round basketball in orange color designed for dribbling, passing, and shooting in the game of basketball. It's made of leather, rubber, or composite material."
+    },
+    {
+      "product_name": "Red designed Adidas sneaker",
+      "cover_image": "Cover/Custom-red_designed_Adidas_sneaker.png",
+      "ar_image": "Products/Fashion/Custom-red_designed_Adidas_sneaker.glb",
+      "description": " A red sneaker designed by Adidas, featuring a unique pattern and style. It is made of breathable mesh material with a cushioned sole for comfort and support during sports or casual wear."
+    },
+    {
+      "product_name": "Golden necklace set",
+      "cover_image": "Cover/Gold_necklace_set.jpg",
+      "ar_image": "Products/Fashion/Gold_necklace_set.glb ",
+      "description": " A beautiful golden necklace set designed for special occasions. It features intricate patterns and a shiny finish, made of high-quality gold material."
+    },
+    {
+      "product_name": "Louis Vuitton designer handbag",
+      "cover_image": "Cover/Louis_Vuitton_designer_handbag.png",
+      "ar_image": "Products/Fashion/Louis_Vuitton_designer_handbag.glb",
+      "description": " A stylish Louis Vuitton designer handbag made of high-quality leather. It features the iconic LV monogram pattern and is perfect for carrying essentials in a fashionable way."
+    },
+    {
+      "product_name": "Pourchet Paris handbag",
+      "cover_image": "Cover/Pourchet_Paris_handbag.png",
+      "ar_image": "Products/Fashion/Pourchet_Paris_handbag.glb",
+      "description": " A chic Pourchet Paris handbag made of premium leather. It features a modern design with a spacious interior, perfect for everyday use or special occasions."
+    },
+    {
+      "product_name": "PUMA SoftFoam Running Shoes",
+      "cover_image": "Cover/PUMA_SoftFoam_Running_Shoes.png",
+      "ar_image": "Products/Fashion/PUMA_SoftFoam_Running_Shoes.glb",
+      "description": " A pair of PUMA SoftFoam running shoes designed for comfort and performance. They feature a lightweight mesh upper, cushioned sole, and a stylish design suitable for running or casual wear."
+    },
+    {
+      "product_name": "Off-white handbag",
+      "cover_image": "Cover/women_s_leather_handbag.png",
+      "ar_image": "Products/Fashion/Women’s_leather_handbag.glb",
+      "description": " A trendy Off-white handbag made of high-quality leather. It features a unique design with the iconic Off-white logo and is perfect for adding a stylish touch to any outfit."
+    }
+
+]

@@ -1,75 +1,68 @@
 [
     {
-      "food_name": "Assorted Belgian-Style Chocolates",
+      "product_name": "Assorted Belgian-Style Chocolates",
       "cover_image": "Cover/Assorted_Belgian-Style_Chocolates.png",
       "ar_image": "Food/Assorted_Belgian_Style_Chocolates.glb",
-      "description": "   "
+      "description": "A beautifully arranged selection, of white, dark, and milk chocolates, each with a unique flavor and design. Perfect for gifting or indulging in a sweet treat."
     },
     {
-      "food_name": "Basque Cheesecake",
+      "product_name": "Basque Cheesecake",
       "cover_image": "Cover/Basque_burnt_cheesecake.png",
       "ar_image": "Food/Basque_burnt_cheesecake.glb",
-      "description": "  accompanied with basque bant cofee"
+      "description": "  A rich and creamy cheesecake with a choclate caramelized top, served with an iced cofee or expresso tonic. Perfect for dessert lovers."
     },
     {
-        "food_name": " Cheese burger",
+        "product_name": " Cheese burger",
         "cover_image": "Cover/Cheeseburger_with_French_Fries.png",
         "ar_image": "Food/Cheeseburger_with_French_Fries.glb",
-        "description": " accompanied with french fries "
+        "description": " A classic cheeseburger with a juicy beef patty, melted cheese, and fresh toppings, served with crispy French fries. Perfect for a satisfying meal."
       },
       {
-        "food_name": "Coke drink",
+        "product_name": "Coke drink",
         "cover_image": "Cover/Coca-Cola.png",
         "ar_image": "Food/Coca-Cola.glb",
-        "description": " coca cola drink"
+        "description": " A refreshing Coca-Cola drink, served chilled. Perfect for quenching your thirst."
       },
       {
-        "food_name": "Coffe roll cake",
+        "product_name": "Coffee roll cake",
         "cover_image": "Cover/Coffee_Roll_Cake_with_Black_Coffee.png",
         "ar_image": "Food/Coffee_Roll_Cake_with_Black_Coffee.glb",
-        "description": " served with cofee"
+        "description": "A delicious coffee roll cake, served with a cup of black coffee. Perfect for coffee lovers."
       },
       {
-        "food_name": " French Apple Tart",
+        "product_name": " French Apple Tart",
         "cover_image": "Cover/French_Apple_Tart_with_Espresso.jpg",
         "ar_image": "Food/French_Apple_Tart_with_Espresso.glb",
-        "description": "served with expresso"
+        "description": "A classic French apple tart, served with a cup of espresso. Perfect for dessert lovers."
       },
       {
-        "food_name": " French Desert Platter",
+        "product_name": " French Desert Platter",
         "cover_image": "Cover/French_Dessert_Platter_with_Espresso.png",
-        "ar_image": "  ",
-        "description": " Served with expresso "
+        "ar_image": "Food/French_Dessert_Platter_with_Espresso.glb",
+        "description":  "A delightful platter of French desserts, including macarons, tarts, and pastries, served with a cup of espresso. Perfect for sharing or indulging in a sweet treat."
       },
       {
-        "food_name": "  ",
-        "cover_image": "  ",
-        "ar_image": "  ",
-        "description": "  "
+        "product_name": "Moet & Chandon Champagne",
+        "cover_image": "Cover/Moet_and_Chandon_Champagne.png",
+        "ar_image": "Food/Moet_and_Chandon_Champagne.glb",
+        "description": "A bottle of Moet & Chandon champagne, known for its crisp and refreshing taste. Perfect for celebrations or special occasions."
       },
       {
-        "food_name": "  ",
-        "cover_image": "  ",
-        "ar_image": "  ",
-        "description": "  "
+        "product_name": "Strawberry shortcake",
+        "cover_image": "Cover/Strawberry_shortcake.png",
+        "ar_image": "Food/Strawberry_shortcake.glb",
+        "description": " A delicious strawberry shortcake, made with layers of sponge cake, whipped cream, and fresh strawberries."
       },
       {
-        "food_name": "  ",
-        "cover_image": "  ",
-        "ar_image": "  ",
-        "description": "  "
+        "product_name": " Strawberry Tart",
+        "cover_image": "Cover/Strawberry_Tart_with_Starbucks_Coffee.png",
+        "ar_image": "Food/Strawberry_Tart_with_Starbucks_Coffee.glb",
+        "description": "A classic strawberry tart, made with a buttery crust, fresh strawberries, and a creamy filling, served with a cup of espresso from starbucks."
       },
       {
-        "food_name": "  ",
-        "cover_image": "  ",
-        "ar_image": "  ",
-        "description": "  "
-      },
-      {
-        "food_name": "  ",
-        "cover_image": "  ",
-        "ar_image": "  ",
-        "description": "  "
-      },
-    
+        "product_name": " Japanese Teishoku Meal",
+        "cover_image": "Cover/Japanese-style_set_meal.png",
+        "ar_image": "Food/Japanese-style_set_meal.glb",
+        "description": " A traditional Japanese teishoku meal, featuring a variety of dishes including rice, miso soup, grilled fish, and pickled vegetables. Perfect for a wholesome and satisfying meal."
+      }
   ]

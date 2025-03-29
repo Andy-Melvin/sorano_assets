@@ -1,0 +1,68 @@
+[
+    {
+        "product_name": "Sling Deck Chair",
+        "cover_image": "Cover/Canvas_Sling_Deck_Chair.png",
+        "ar_image": "Products/Furniture/Canvas_Sling_Deck_Chair.glb",
+        "description": "A stylish and comfortable sling deck chair made of durable canvas material. Perfect for relaxing by the pool or on the beach."
+      },
+      {
+        "product_name": "Modular bookshelf",
+        "cover_image": "Cover/modular_bookshelf.png",
+        "ar_image": "Products/Furniture/modular_bookshelf.glb",
+        "description": "A modern modular bookshelf with a ladder-style design and drawers for storage. Ideal for displaying books and decorative items."
+      },
+      {
+        "product_name": "Light pink Orchid flower",
+        "cover_image": "Cover/Light_pink_Moth_Orchid_flower.png",
+        "ar_image": "Products/Furniture/Light_pink_Moth_Orchid_flower.glb",
+        "description": "A beautiful light pink Moth Orchid flower in a decorative pot. Perfect for adding a touch of elegance to any room."
+      },
+      {
+        "product_name": "Wooden lounge chair",
+        "cover_image": "Cover/mid-century_modern_lounge_chair.png",
+        "ar_image": "Products/Furniture/mid-century_modern_lounge_chair.glb",
+        "description": "A classic mid-century modern lounge chair made of high-quality wood. Perfect for adding a touch of vintage style to your living space."
+      },
+      {
+        "product_name": "Industrial Ladder Shelf ",
+        "cover_image": "Cover/House-Nordic-Minato-Bookcase-3001300-3.png",
+        "ar_image": " Products/Furniture/ladder-style_shelving_unit_with_drawers.glb",
+        "description": "An industrial ladder-style shelving unit with drawers for storage. Ideal for displaying books and decorative items in a stylish way."
+      },
+      {
+        "product_name": "Leather Parsons Chair",
+        "cover_image": "Cover/Real_Leather_Parsons_Chair.jpeg.png",
+        "ar_image": "Products/Furniture/Real_Leather_Parsons_Chair.glb",
+        "description": "A stylish and comfortable Parsons chair made of real leather. Perfect for adding a touch of elegance to your dining room or living space."
+      },
+      {
+        "product_name": "Marble Coffee Table",
+        "cover_image": "Cover/Round_Marble_Coffee_Table_with_Metal_Legs.png",
+        "ar_image": "Products/Furniture/Round_Marble_Coffee_Table_with_Metal_Legs.glb",
+        "description": "A modern round marble coffee table with metal legs. Perfect for adding a touch of sophistication to your living room."
+      },
+      {
+        "product_name": "Tufted Leather Loveseat",
+        "cover_image": "Cover/Tufted_Leather_Loveseat.png",
+        "ar_image": "Products/Furniture/VictoTuft_Loveseat.glb",
+        "description": "A stylish tufted leather loveseat with a modern design. Perfect for adding a touch of elegance to your living space."
+      },
+      {
+        "product_name": "Wooden Bistro Table",
+        "cover_image": "Cover/Wooden_Bistro_Table_and_Chair_Set.png",
+        "ar_image": "Products/Furniture/Wooden_Bistro_Table_and_Chair_Set.glb",
+        "description": "A classic wooden bistro table and chair set. Perfect for outdoor dining or adding a touch of rustic charm to your kitchen."
+      },
+      {
+        "product_name": "Wooden Dining Table",
+        "cover_image": "Cover/Wooden_Dining_Table.png",
+        "ar_image": "Products/Furniture/Wooden_Dining_Table.glb",
+        "description": "A beautiful wooden dining table with a modern design. Perfect for family gatherings and entertaining guests."
+      },
+      {
+        "product_name": "Light pink Moth Orchid flower",
+        "cover_image": "Cover/Light_pink_Moth_Orchid_flower.png",
+        "ar_image": "Products/Furniture/Light_pink_Moth_Orchid_flower.glb",
+        "description": "A beautiful light pink Moth Orchid flower in a decorative pot. Perfect for adding a touch of elegance to any room."
+      }
+]
